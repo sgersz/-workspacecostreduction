@@ -64,11 +64,13 @@ The project followed these core steps:
 - [Sample Configurations](docs/sample-config.md)
 
 ---
+
 ## 🔗 Related Projects
 
-Explore more of my DevOps and infrastructure projects:
+Explore more of my cloud optimization and infrastructure projects:
 
-- [Home Lab 2025](https://github.com/sgersz/homelab2025): A secure, scalable home lab environment combining virtualization, containerization, automation, and Zero Trust networking.
+- [Homelab 2025](https://github.com/sgersz/homelab2025): A secure, scalable home lab environment combining virtualization, containerization, automation, and Zero Trust networking.
+- [Homelab Monitoring](https://github.com/sgersz/homelab-monitoring): Monitoring stack for my homelab using Prometheus, Grafana, node_exporter, and cAdvisor to visualize system and Docker metrics in real time.
 - [Simple CI/CD Pipeline](https://github.com/sgersz/simplecicd): A hands-on demo of using GitHub Actions to automate Docker builds for a Flask web app.
 
 
