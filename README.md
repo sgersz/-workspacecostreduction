@@ -1,8 +1,9 @@
 # 🏢 Cloud Cost Optimization: Migrating from AWS Workspaces to EC2 + Zscaler ZPA
 
-This repo documents a real-world cloud optimization project where I led the migration of user environments from AWS Workspaces to a hybrid solution combining Zscaler ZPA (Zero Trust Network Access) with AWS EC2 instances.
+This repo documents a real-world cloud optimization project where I led the migration of user environments from AWS Workspaces to a hybrid solution combining Zscaler ZPA (Zero Trust Network Access) with AWS EC2 instances. I skipped over the Zscaler polcies as the purpose of this was to give some ideas on cost savings. 
 
 The project achieved:
+
 ✅ 35% per-user monthly cost reduction  
 ✅ Improved app performance  
 ✅ Seamless Zero Trust access without VPN clients  
@@ -18,7 +19,7 @@ Our organization was facing rising AWS Workspaces costs with inconsistent perfor
 
 ## 🏗️ Architecture Overview
 
-![Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](docs/ec2flow.png)
 
 ---
 
