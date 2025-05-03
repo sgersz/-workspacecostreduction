@@ -4,7 +4,7 @@ This repo documents a real-world cloud optimization project where I led the migr
 
 The project achieved:
 
-✅ 35% per-user monthly cost reduction  
+✅ ~35% per-user monthly cost reduction  
 ✅ Improved app performance  
 ✅ Seamless Zero Trust access without VPN clients  
 ✅ Enhanced user experience and security
@@ -34,14 +34,13 @@ The project followed these core steps:
 5. **User Testing & Transition** – Piloted with key users, phased migration from Workspaces to EC2.
 6. **Documentation & Support** – Created guides and documentation for smooth onboarding.
 
-![Migration Process Diagram](docs/migration-process-diagram.png)
-
 ---
 
 ## ✅ Outcomes
 
-- **35% per-user cost reduction**
+- **~35% per-user cost reduction**
 - **Improved application performance and responsiveness**
+- **Full control over EC2 familes, instead of cookie cutter builds**
 - **Enhanced security via Zero Trust model**
 - **Improved user satisfaction with seamless access**
 
