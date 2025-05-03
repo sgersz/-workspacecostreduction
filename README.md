@@ -1,0 +1,72 @@
+# 🏢 Cloud Cost Optimization: Migrating from AWS Workspaces to EC2 + Zscaler ZPA
+
+This repo documents a real-world cloud optimization project where I led the migration of user environments from AWS Workspaces to a hybrid solution combining Zscaler ZPA (Zero Trust Network Access) with AWS EC2 instances.
+
+The project achieved:
+✅ 35% per-user monthly cost reduction  
+✅ Improved app performance  
+✅ Seamless Zero Trust access without VPN clients  
+✅ Enhanced user experience and security
+
+---
+
+## 📈 Background
+
+Our organization was facing rising AWS Workspaces costs with inconsistent performance. I initiated a project to explore alternative solutions that could reduce costs while maintaining secure, reliable access to user environments.
+
+---
+
+## 🏗️ Architecture Overview
+
+![Architecture Diagram](docs/architecture-diagram.png)
+
+---
+
+## 🔄 Migration Process
+
+The project followed these core steps:
+
+1. **Cost Analysis & Assessment** – Identified inefficiencies in Workspaces licensing and resource usage.
+2. **Design New Architecture** – Designed a hybrid solution using Zscaler ZPA + EC2.
+3. **Security & Access Configuration** – Implemented ZPA policies and configured secure access to EC2.
+4. **Provision EC2 Instances** – Deployed optimized EC2 instances tailored to workloads.
+5. **User Testing & Transition** – Piloted with key users, phased migration from Workspaces to EC2.
+6. **Documentation & Support** – Created guides and documentation for smooth onboarding.
+
+![Migration Process Diagram](docs/migration-process-diagram.png)
+
+---
+
+## ✅ Outcomes
+
+- **35% per-user cost reduction**
+- **Improved application performance and responsiveness**
+- **Enhanced security via Zero Trust model**
+- **Improved user satisfaction with seamless access**
+
+---
+
+## 💡 Skills & Tools Used
+
+- AWS EC2
+- AWS Workspaces
+- Zscaler ZPA
+- Zero Trust security
+- Cloud cost optimization
+- Infrastructure design
+- Remote access solutions
+
+---
+
+## 📚 Documentation
+
+- [User Guide](docs/user-guide.md)
+- [Sample Configurations](docs/sample-config.md)
+
+---
+
+## ✍️ About
+
+I’m Steven Gersztyn, a Senior Systems Engineer specializing in cloud infrastructure, identity management, security, and automation. This project reflects my approach to technical leadership, cost optimization, and secure design.
+
+👉 [Connect on LinkedIn](https://www.linkedin.com/in/stevengersztyn/)
