@@ -64,9 +64,12 @@ The project followed these core steps:
 - [Sample Configurations](docs/sample-config.md)
 
 ---
+## 🔗 Related Projects
 
-## ✍️ About
+Explore more of my DevOps and infrastructure projects:
 
-I’m Steven Gersztyn, a Senior Systems Engineer specializing in cloud infrastructure, identity management, security, and automation. This project reflects my approach to technical leadership, cost optimization, and secure design.
+- [Home Lab 2025](https://github.com/sgersz/homelab2025): A secure, scalable home lab environment combining virtualization, containerization, automation, and Zero Trust networking.
+- [Simple CI/CD Pipeline](https://github.com/sgersz/simplecicd): A hands-on demo of using GitHub Actions to automate Docker builds for a Flask web app.
+
 
 👉 [Connect on LinkedIn](https://www.linkedin.com/in/stevengersztyn/)
