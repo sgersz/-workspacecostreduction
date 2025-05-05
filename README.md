@@ -77,6 +77,8 @@ Explore more of my cloud optimization and infrastructure projects:
 
 🔹 [Simple CI/CD Pipeline](https://github.com/sgersz/simplecicd): Demo repo automating Docker builds for a Flask app using GitHub Actions.
 
+🔹 [Toolbox](https://github.com/sgersz/toolbox): A curated collection of scripts automating cloud infrastructure, security, identity, DevOps, and IT operations across AWS, Azure, GitHub, Zscaler, CrowdStrike, Intune, and more.
+
 
 ## 🚀 **Connect with me**
 
